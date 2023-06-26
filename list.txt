@@ -1,0 +1,3 @@
+[user] 
+	email=iehasincol5@mail.ru
+	user=Jason3292
